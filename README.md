@@ -6,3 +6,5 @@ While AWS is the most used web service provider platform, it is quite complicate
 - A proper backend system with various AI features which could understand the input what it means and how to perform it properly.
 
 As this project is very complicated at first, while I think it could be done with some innovative methods and could help to reduce the time of using it and reading documentations regarding AWS.
+
+This could be the possible way of simplifying the usage of the AWS for the deployment of web services without proper knowledge and also be able to properly make things go smoothly, while with the ability to use it as an open-source project to be able to perform the things while working with it.
